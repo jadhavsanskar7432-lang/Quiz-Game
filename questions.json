@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "answer": "Delhi"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is 2 + 2 * 2?",
+        "options": ["6", "8", "4", "2"],
+        "answer": "6"
+    },
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": ["Python", "HTML", "C++", "Java"],
+        "answer": "HTML"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "CO2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Mark Twain", "Charles Dickens", "J.K. Rowling"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": ["Brain", "Lungs", "Heart", "Kidney"],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+    }
+]
